@@ -15,7 +15,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a hrel=" Your ID URL Link ">
+<a hrel=" https://www.linkedin.com/in/neche-ogbu-b29b9122a/ ">
 <img, align="left" alt="Mitul's LinkedIN" width="22px"
 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg
 
