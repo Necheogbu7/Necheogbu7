@@ -10,13 +10,11 @@
 -[introduction to cybersecurity issued by cisco](https://www.credly.com/badges/bc46596b-060a-4e4c-9461-baa34c25d47b/public_url)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 project walkthrough/tutorial video </h2>
 
 
 <h2> 🤳 Connect with me:</h2>
 
-<a hrel=" https://www.linkedin.com/in/neche-ogbu-b29b9122a/ ">
-<img, align="left" alt="Mitul's LinkedIN" width="22px"
-src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg
+
 
 <!--
