@@ -1,7 +1,7 @@
 <h1>Hi i'm Neche</a></h1>
 
-<h2>👨‍💻Cybersecurity Projects:</h2>
-
+<h2>👨‍💻Cybersecurity Projects:</h2>                
+<h2> ☁️cloud engineering projects:</h2>
 
 <h2>Certifications</h2>
 
