@@ -1,10 +1,10 @@
 <h1>Hi i'm Neche</a></h1>
 
-<h2>👨‍💻Cybersecurity Projects:</h2>                
+<h2>👨‍💻software development Projects:</h2>                
 <h2> ☁️cloud engineering projects:</h2>
 
 <h2>Certifications</h2>
-
+-[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/ed481e36-d85c-4bc2-8a92-105b6a120e94/public_url) 
 -[introduction to cybersecurity issued by cisco](https://www.credly.com/badges/bc46596b-060a-4e4c-9461-baa34c25d47b/public_url)
 
 
