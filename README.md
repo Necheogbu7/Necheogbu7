@@ -1,11 +1,11 @@
 <h1>Hi i'm Neche</a></h1>
 
              
-<h2> ☁️cloud/security  projects:</h2>
--[Microsoft Intune, IAM & Endpoint Security Lab] (https://github.com/Necheogbu7/Intune)
-
-
--[azure sentinal seim project ](https://github.com/Necheogbu7/sentinalproject)
+<h2>☁️ Cloud/Security Projects:</h2>
+<ul>
+  <li><a href="https://github.com/Necheogbu7/Intune" target="_blank">Microsoft Intune, IAM & Endpoint Security Lab</a></li>
+  <li><a href="https://github.com/Necheogbu7/sentinalproject" target="_blank">Azure Sentinel SIEM Project</a></li>
+</ul>
 
 
 <h2>Certifications</h2>
